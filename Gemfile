@@ -43,6 +43,8 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.8'
   # Gem ffaker para criação de dados aleatórios
   gem 'ffaker'
+  # Factory bot rails 
+  gem 'factory_bot_rails'
 
 end
 
