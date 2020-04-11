@@ -41,6 +41,8 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   # Gem rspec-rails version 3.8
   gem 'rspec-rails', '~> 3.8'
+  # Gem ffaker para criação de dados aleatórios
+  gem 'ffaker'
 
 end
 
